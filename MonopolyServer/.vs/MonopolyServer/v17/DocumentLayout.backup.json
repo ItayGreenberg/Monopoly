@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itay1\\OneDrive\\Itay\\Monopoly\\MonopolyServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC785EB2-032D-4B2B-85AB-F653EA8C9AAD}|MonopolyServer\\MonopolyServer.csproj|c:\\users\\itay1\\onedrive\\itay\\monopoly\\monopolyserver\\monopolyserver\\control\\gamectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC785EB2-032D-4B2B-85AB-F653EA8C9AAD}|MonopolyServer\\MonopolyServer.csproj|solutionrelative:monopolyserver\\control\\gamectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC785EB2-032D-4B2B-85AB-F653EA8C9AAD}|MonopolyServer\\MonopolyServer.csproj|c:\\users\\itay1\\onedrive\\itay\\monopoly\\monopolyserver\\monopolyserver\\control\\lobbyctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC785EB2-032D-4B2B-85AB-F653EA8C9AAD}|MonopolyServer\\MonopolyServer.csproj|solutionrelative:monopolyserver\\control\\lobbyctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC785EB2-032D-4B2B-85AB-F653EA8C9AAD}|MonopolyServer\\MonopolyServer.csproj|c:\\users\\itay1\\onedrive\\itay\\monopoly\\monopolyserver\\monopolyserver\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC785EB2-032D-4B2B-85AB-F653EA8C9AAD}|MonopolyServer\\MonopolyServer.csproj|solutionrelative:monopolyserver\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC785EB2-032D-4B2B-85AB-F653EA8C9AAD}|MonopolyServer\\MonopolyServer.csproj|c:\\users\\itay1\\onedrive\\itay\\monopoly\\monopolyserver\\monopolyserver\\control\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC785EB2-032D-4B2B-85AB-F653EA8C9AAD}|MonopolyServer\\MonopolyServer.csproj|solutionrelative:monopolyserver\\control\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\Itay\\Monopoly\\MonopolyServer\\MonopolyServer\\Model\\Player.cs",
+              "RelativeDocumentMoniker": "MonopolyServer\\Model\\Player.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\Itay\\Monopoly\\MonopolyServer\\MonopolyServer\\Model\\Player.cs",
+              "RelativeToolTip": "MonopolyServer\\Model\\Player.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:47:47.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\Itay\\Monopoly\\MonopolyServer\\MonopolyServer\\Control\\Globals.cs",
+              "RelativeDocumentMoniker": "MonopolyServer\\Control\\Globals.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\Itay\\Monopoly\\MonopolyServer\\MonopolyServer\\Control\\Globals.cs",
+              "RelativeToolTip": "MonopolyServer\\Control\\Globals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:45:01.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LobbyCtrl.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\Itay\\Monopoly\\MonopolyServer\\MonopolyServer\\Control\\LobbyCtrl.cs",
+              "RelativeDocumentMoniker": "MonopolyServer\\Control\\LobbyCtrl.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\Itay\\Monopoly\\MonopolyServer\\MonopolyServer\\Control\\LobbyCtrl.cs",
+              "RelativeToolTip": "MonopolyServer\\Control\\LobbyCtrl.cs",
+              "ViewState": "AgIAAGwFAAAAAAAAAAAwwH4FAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:41:43.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameCtrl.cs",
+              "DocumentMoniker": "C:\\Users\\itay1\\OneDrive\\Itay\\Monopoly\\MonopolyServer\\MonopolyServer\\Control\\GameCtrl.cs",
+              "RelativeDocumentMoniker": "MonopolyServer\\Control\\GameCtrl.cs",
+              "ToolTip": "C:\\Users\\itay1\\OneDrive\\Itay\\Monopoly\\MonopolyServer\\MonopolyServer\\Control\\GameCtrl.cs",
+              "RelativeToolTip": "MonopolyServer\\Control\\GameCtrl.cs",
+              "ViewState": "AgIAALADAAAAAAAAAAAmwL0DAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:40:20.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

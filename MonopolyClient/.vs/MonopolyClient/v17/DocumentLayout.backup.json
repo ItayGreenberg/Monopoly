@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|c:\\github-environment\\repositiries\\monopoly\\monopolyclient\\monopolyclient\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|solutionrelative:monopolyclient\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\monopolyclient\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|solutionrelative:monopolyclient\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|c:\\github-environment\\repositiries\\monopoly\\monopolyclient\\monopolyclient\\control\\lobbyctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|solutionrelative:monopolyclient\\control\\lobbyctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|c:\\github-environment\\repositiries\\monopoly\\monopolyclient\\monopolyclient\\squares\\streetsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|solutionrelative:monopolyclient\\squares\\streetsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|c:\\github-environment\\repositiries\\monopoly\\monopolyclient\\monopolyclient\\control\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|solutionrelative:monopolyclient\\control\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|c:\\github-environment\\repositiries\\monopoly\\monopolyclient\\monopolyclient\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|solutionrelative:monopolyclient\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|c:\\github-environment\\repositiries\\monopoly\\monopolyclient\\monopolyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|solutionrelative:monopolyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|c:\\github-environment\\repositiries\\monopoly\\monopolyclient\\monopolyclient\\control\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03413535-1CA2-4E80-980B-ACA5567BD72A}|MonopolyClient\\MonopolyClient.csproj|solutionrelative:monopolyclient\\control\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientForm.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\ClientForm.cs",
+              "RelativeDocumentMoniker": "MonopolyClient\\ClientForm.cs",
+              "ToolTip": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\ClientForm.cs [Design]",
+              "RelativeToolTip": "MonopolyClient\\ClientForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:51:10.361Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientForm.cs",
+              "DocumentMoniker": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\ClientForm.cs",
+              "RelativeDocumentMoniker": "MonopolyClient\\ClientForm.cs",
+              "ToolTip": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\ClientForm.cs",
+              "RelativeToolTip": "MonopolyClient\\ClientForm.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwFUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:27:29.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StreetSquare.cs",
+              "DocumentMoniker": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\Squares\\StreetSquare.cs",
+              "RelativeDocumentMoniker": "MonopolyClient\\Squares\\StreetSquare.cs",
+              "ToolTip": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\Squares\\StreetSquare.cs",
+              "RelativeToolTip": "MonopolyClient\\Squares\\StreetSquare.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:55:40.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\Control\\Globals.cs",
+              "RelativeDocumentMoniker": "MonopolyClient\\Control\\Globals.cs",
+              "ToolTip": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\Control\\Globals.cs",
+              "RelativeToolTip": "MonopolyClient\\Control\\Globals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:42:04.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\Program.cs",
+              "RelativeDocumentMoniker": "MonopolyClient\\Program.cs",
+              "ToolTip": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\Program.cs",
+              "RelativeToolTip": "MonopolyClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:12:12.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\Player.cs",
+              "RelativeDocumentMoniker": "MonopolyClient\\Player.cs",
+              "ToolTip": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\Player.cs",
+              "RelativeToolTip": "MonopolyClient\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:39:44.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\Control\\Message.cs",
+              "RelativeDocumentMoniker": "MonopolyClient\\Control\\Message.cs",
+              "ToolTip": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\Control\\Message.cs",
+              "RelativeToolTip": "MonopolyClient\\Control\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:22:47.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LobbyCtrl.cs",
+              "DocumentMoniker": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\Control\\LobbyCtrl.cs",
+              "RelativeDocumentMoniker": "MonopolyClient\\Control\\LobbyCtrl.cs",
+              "ToolTip": "C:\\GitHub-environment\\Repositiries\\Monopoly\\MonopolyClient\\MonopolyClient\\Control\\LobbyCtrl.cs",
+              "RelativeToolTip": "MonopolyClient\\Control\\LobbyCtrl.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwKcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:27:29.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
