@@ -64,5 +64,5 @@ If you just want to run the prebuilt executables, you only need the appropriate 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/Monopoly.git
+   git clone https://github.com/ItayGreenberg/Monopoly.git
    cd Monopoly
